@@ -115,7 +115,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped> 
 * { box-sizing: border-box; }
 body {
   font: 16px Arial;
